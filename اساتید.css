@@ -1,0 +1,19 @@
+.master-article {
+    background-color: white !important;
+    width: 15em !important;
+    height: 20em !important; 
+    border-radius: 10px !important;
+    border: solid 1px #781FBB !important;
+    transition-duration: 0.7s !important;
+    box-shadow: 1px 1px 10px #781FBB!important;
+}
+.master-article:hover {
+    transform: translateY(-5px) !important;
+}
+.master-img {
+    width: 50% !important;
+    height: auto !important;
+    margin-right: 60px !important;
+    margin-top: 10px !important;
+    border: solid 1px #781FBB !important;
+}

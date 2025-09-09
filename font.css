@@ -1,0 +1,9 @@
+@font-face {
+	font-family: vazir;
+	src: url(font/Vazir-Regular-FD.eot), url(font/Vazir-Regular-FD.ttf),
+		url(font/Vazir-Regular-FD.woff), url(font/Vazir-Regular-FD.woff2);
+}
+@font-face {
+	font-family: English;
+	src: url(font/CANAVAR.ttf);
+}
